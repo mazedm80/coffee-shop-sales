@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://mesonet.agron.iastate.edu/request/download.phtml?network=NY_ASOS
+HostUrl=https://mesonet.agron.iastate.edu/cgi-bin/request/asos.py?station=NYC&data=tmpc&data=relh&data=sped&data=p01m&year1=2023&month1=1&day1=1&year2=2023&month2=7&day2=1&tz=Etc%2FUTC&format=onlycomma&latlon=no&elev=no&missing=empty&trace=T&direct=yes&report_type=3&report_type=4
